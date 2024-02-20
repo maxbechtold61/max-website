@@ -1,4 +1,5 @@
 {{ define "main" }}
+  
     <header class="content__header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
@@ -22,4 +23,6 @@
 	    On this page:
 	    {{ .TableOfContents }}
     {{ end }}
+
 {{ end }}
+

@@ -3,11 +3,13 @@ title = 'About me'
 date = 2024-02-19T18:33:29-06:00
 draft = false
 description = 'Read about me'
+toc = true
+socialshare = true
 +++
 
-I grew up in Golden Valley (a small suburb in Minnesota), and I currently live in Minneapolis, MN. 
+I grew up in St. Louis Park (a small suburb in Minnesota), and I currently live in Minneapolis, MN. 
 
-## My work
+## My career
 
 I've worked as a technical writer at Splunk, Inc. since July 2023. If you aren't familiar with the profession, a technical writer is essentially someone who writes instructions and tutorials (think about the people who wrote your IKEA guide). 
 

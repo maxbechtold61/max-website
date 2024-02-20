@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Home</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-EN</language>
     <lastBuildDate>Mon, 19 Feb 2024 18:19:31 -0600</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pilot post</title>
-      <link>/posts/post1/</link>
+      <link>//localhost:1313/posts/post1/</link>
       <pubDate>Mon, 19 Feb 2024 18:19:31 -0600</pubDate>
-      <guid>/posts/post1/</guid>
+      <guid>//localhost:1313/posts/post1/</guid>
       <description>This is a test post.</description>
     </item>
   </channel>

@@ -7,9 +7,14 @@ params:
   contact:
     email: 'mbechtold@splunk.com'
     phone: '+1 952-905-6198'
-  socialIcons:
-  - name: linkedin
-    url: https://www.linkedin.com/in/max-bechtold/
+  about:
+    description: Max Bechtold's website
+languages:
+  en:
+     languageCode: en-EN
+     languageDirection: ltr
+     languageName: English
+     weight: 1
 menus:
   main:
   - identifier: about
