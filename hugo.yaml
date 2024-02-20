@@ -1,0 +1,24 @@
+baseURL: ''
+languageCode: 'en-us'
+title: 'Home'
+theme: 'risotto'
+params:
+  subtitle: 'the gigachad himself'
+  contact:
+    email: 'mbechtold@splunk.com'
+    phone: '+1 952-905-6198'
+  socialIcons:
+  - name: linkedin
+    url: https://www.linkedin.com/in/max-bechtold/
+menus:
+  main:
+  - identifier: about
+    name: About
+    pageRef: 'about.md'
+    weight: 10
+  - identifier: posts
+    name: 'Posts'
+    pageRef: '/posts/'
+    weight: 20
+  
+
