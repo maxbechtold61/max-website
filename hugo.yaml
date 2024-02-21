@@ -2,13 +2,12 @@ baseURL: ''
 languageCode: 'en-us'
 title: 'Home'
 theme: 'risotto'
+enableEmoji: true
 params:
   subtitle: 'the gigachad himself'
   contact:
     email: 'mbechtold@splunk.com'
     phone: '+1 952-905-6198'
-  about:
-    description: Max Bechtold's website
 languages:
   en:
      languageCode: en-EN
@@ -25,5 +24,11 @@ menus:
     name: 'Posts'
     pageRef: '/posts/'
     weight: 20
+  - name: 'Portfolio'
+    pageRef: 'portfolio.md'
+    weight: 30
+  - name: 'Change log'
+    pageRef: 'changelog.md'
+    weight: 40
   
 
