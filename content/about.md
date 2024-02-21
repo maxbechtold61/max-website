@@ -19,7 +19,7 @@ I primarily work on our documentation for the [OpenTelemetry Collector](https://
 
 Before I became a technical writer, I worked as a writing consultant (a tutor) at the [University of Minnesota Center for Writing](http://writing.umn.edu/) for two years. In this role, I helped students write all kinds of things, from resumes and cover letters to lab reports and dissertations.
 
-I also worked as a barista throughout my first two years of college. I can make a mean
+I also worked as a barista throughout my first two years of college.
 
 ## Education
 
