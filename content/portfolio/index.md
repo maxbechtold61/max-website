@@ -20,6 +20,10 @@ This tutorial walks users through a process of using Splunk's zero configuration
 
 [Read the tutorial here](https://docs.splunk.com/observability/en/get-started/tutorials/k8s-java-traces-tutorial/about-k8s-java-traces-tutorial.html#about-k8s-java-traces-tutorial).
 
+### Zero configuration auto instrumentation for Kubernete
+
+Coming soon!
+
 ## Academic work
 
 Throughout my bachelor's degree, I researched and wrote on a variety of topics, mostly in philosophy. I'll upload some of this work in the next update.
