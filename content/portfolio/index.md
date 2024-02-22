@@ -26,7 +26,7 @@ Audience: application developers, Kubernetes admins
 
 These docs show users how they can deploy zero config for Java, Node.js, and .NET applications in Kubernetes environments. They're different from the previous tutorial because they cover a broader set of circumstances and they don't use a sample application to demonstrate the process.
 
-You can see the docs here:
+See the following links:
 * [Java](https://docs.splunk.com/observability/en/gdi/opentelemetry/auto-instrumentation/auto-instrumentation-java-k8s.html)
 * [Node.js](https://docs.splunk.com/observability/en/gdi/opentelemetry/auto-instrumentation/auto-instrumentation-nodejs-k8s.html)
 * [.NET](https://docs.splunk.com/observability/en/gdi/opentelemetry/auto-instrumentation/auto-instrumentation-dotnet-k8s.html)
