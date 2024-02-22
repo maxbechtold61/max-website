@@ -16,13 +16,28 @@ During my tenure at Splunk, I've written docs for many of our product areas. I'v
 
 Audience: application developers, Kubernetes admins
 
-This tutorial walks users through a process of using Splunk's zero configuration auto instrumentation feature (I just call this "zero config") to send data from their Java applications to Splunk Observability Cloud. The tutorial specifically shows the process in a Kubernetes environment, as Kubernetes is both relevant and complex.
+This tutorial walks users through a process of deploying Splunk's zero configuration auto instrumentation feature (I just call this "zero config") to send data from a sample Java applications to Splunk Observability Cloud. The tutorial specifically shows the process in a Kubernetes environment, as Kubernetes is both relevant and complex.
 
 [Read the tutorial here](https://docs.splunk.com/observability/en/get-started/tutorials/k8s-java-traces-tutorial/about-k8s-java-traces-tutorial.html#about-k8s-java-traces-tutorial).
 
-### Zero configuration auto instrumentation for Kubernete
+### Zero config for Kubernetes
 
-Coming soon!
+Audience: application developers, Kubernetes admins
+
+These docs show users how they can deploy zero config for Java, Node.js, and .NET applications in Kubernetes environments. They're different from the previous tutorial because they cover a broader set of circumstances and they don't use a sample application to demonstrate the process.
+
+You can see the docs here:
+* [Java](https://docs.splunk.com/observability/en/gdi/opentelemetry/auto-instrumentation/auto-instrumentation-java-k8s.html)
+* [Node.js](https://docs.splunk.com/observability/en/gdi/opentelemetry/auto-instrumentation/auto-instrumentation-nodejs-k8s.html)
+* [.NET](https://docs.splunk.com/observability/en/gdi/opentelemetry/auto-instrumentation/auto-instrumentation-dotnet-k8s.html)
+
+### Session tokens API doc
+
+Audience: Splunk admins, site reliability engineers, developers
+
+A brief spec that describes how to use the `POST /v2/password` API endpoint in Splunk Observability Cloud. It covers examples of requests and responses that users might see when using the endpoint.
+
+[View the API spec here](https://dev.splunk.com/observability/reference/api/passwords/latest#endpoint-root)
 
 ## Academic work
 
